@@ -1,0 +1,1 @@
+window.TopJs = require('../src');
